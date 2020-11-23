@@ -1,3 +1,9 @@
+# See in heroku
+https://devtodoapp.herokuapp.com/
+
+# Install Node js
+https://nodejs.org/es/
+
 # Quasar App (quasar-todo)
 
 A Quasar Framework app
